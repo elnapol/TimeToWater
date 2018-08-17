@@ -1,3 +1,4 @@
+<!-- as -->
 <?php
 	class conexion{	
 		function recuperarDatos(){
